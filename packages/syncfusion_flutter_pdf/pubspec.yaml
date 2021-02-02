@@ -12,4 +12,3 @@ dependencies:
   intl:
   xml: ^4.5.1
   syncfusion_flutter_core:
-    path: ../syncfusion_flutter_core
