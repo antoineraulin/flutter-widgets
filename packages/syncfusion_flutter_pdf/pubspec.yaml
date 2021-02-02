@@ -10,5 +10,5 @@ dependencies:
   flutter:
     sdk: flutter
   intl:
-  xml: ^4.5.1
+  xml:
   syncfusion_flutter_core:
