@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   vector_math: ">=1.1.0 <3.0.0"
   async: ^2.4.2
-  path_provider: ^1.6.18
+  path_provider:
   syncfusion_flutter_core:
     path: ../syncfusion_flutter_core
   syncfusion_flutter_pdf:
