@@ -11,4 +11,3 @@ dependencies:
     sdk: flutter
   intl:
   syncfusion_flutter_core:
-    path: ../syncfusion_flutter_core
