@@ -11,10 +11,11 @@ dependencies:
     sdk: flutter
   timezone: 0.5.9
   syncfusion_flutter_core:
-    path: ../syncfusion_flutter_core
 
   syncfusion_flutter_datepicker:
-    path: ../syncfusion_flutter_datepicker
+    git:
+      url: https://github.com/antoineraulin/flutter-widgets
+      path: packages/syncfusion_flutter_datepicker
 
   intl:
 
