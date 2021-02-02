@@ -16,7 +16,7 @@ dependencies:
   syncfusion_flutter_datepicker:
     path: ../syncfusion_flutter_datepicker
 
-  intl: ">=0.15.0 <0.17.0"
+  intl:
 
 flutter:
   assets:
