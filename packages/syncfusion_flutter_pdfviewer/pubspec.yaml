@@ -15,6 +15,9 @@ dependencies:
   path_provider:
   syncfusion_flutter_core:
   syncfusion_flutter_pdf:
+    git:
+      url: https://github.com/antoineraulin/flutter-widgets
+      path: packages/syncfusion_flutter_pdf
 
 flutter:
   # This section identifies this Flutter project as a plugin project.
